@@ -1,0 +1,36 @@
+.bg {
+    background-color:black;
+    max-width: 900px;
+    margin: auto;
+
+}
+html {
+    background-color: #321b70;
+}
+p {
+    color:#ffffff;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+li {
+    color: #ee8905;
+    text-decoration: solid;
+    text-align: left;
+}
+a {
+    color: rgb(133, 136, 133);
+    margin-left: 50px;
+  
+}
+img {
+width: 500px;
+margin-left: 200px;
+}
+.bo {
+    color: #fddc02;
+}
+h1{
+    text-size-adjust: 10px;
+    text-align: center;
+    color: #e5da05;
+}
